@@ -1,5 +1,4 @@
-import React from "react";
-import aboutImg from '../../public/images/profile2.png'
+import aboutImg from '../assets/profile2.png'
 
 const About = () => {
   const info = [
@@ -7,6 +6,7 @@ const About = () => {
     { text: "Completed Projects", count: "13" },
     { text: "Companies Work", count: "01" },
   ];
+  
   return (
     <section id="about" className="py-10 text-white">
       <div className="text-center mt-8">

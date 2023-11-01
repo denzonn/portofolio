@@ -1,8 +1,9 @@
-import React, { useState } from "react";
-import bootstrap from "../../public/images/bootstrap.svg";
-import typescript from "../../public/images/typescript.png";
-import typescriptfill from "../../public/images/typescript-fill.png";
-import bootstrapfill from "../../public/images/bootstrap-fill.svg";
+import { useState } from "react";
+import bootstrap from "../assets/bootstrap.svg";
+import typescript from "../assets/typescript.png";
+import typescriptfill from "../assets/typescript-fill.png";
+import bootstrapfill from "../assets/bootstrap-fill.svg";
+
 
 const Skills = () => {
   const skills = [

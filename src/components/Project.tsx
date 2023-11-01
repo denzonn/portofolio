@@ -1,12 +1,11 @@
-import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import project1 from "../../public/images/Ecci.png";
-import project2 from "../../public/images/PGT.png";
-import project3 from "../../public/images/HRIS.png";
-import project4 from "../../public/images/Movie.png";
-import project5 from "../../public/images/Store.png";
-import project6 from "../../public/images/Todo list.png";
-import project_person from "../../public/images/photo-profile.png";
+import project1 from "../assets/Ecci.png";
+import project2 from "../assets/PGT.png";
+import project3 from "../assets/HRIS.png";
+import project4 from "../assets/Movie.png";
+import project5 from "../assets/Store.png";
+import project6 from "../assets/Todo list.png";
+import project_person from "../assets/photo-profile.png";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Pagination, Autoplay } from "swiper/modules";
@@ -63,7 +62,6 @@ const Project = () => {
       <div className="flex max-w-6xl gap-6 px-5 mx-auto items-center relative">
         <div className="lg:w-2/3 w-full">
           <Swiper
-            slidesPerview={1.2}
             spaceBetween={20}
             breakpoints={{
               768: {

@@ -1,5 +1,4 @@
-import React from "react";
-import hireMe from "../../public/images/profile2.png";
+import hireMe from "../assets/profile2.png";
 
 const Hireme = () => {
   return (

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Contact = () => {
   const contact_info = [
     { logo: "mail", text: "denzon753@gmail.com" },
