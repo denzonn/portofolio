@@ -19,7 +19,7 @@ const Hireme = () => {
           <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
           Over the course of my career, I have successfully delivered a wide variety of websites and applications, from corporate websites to complex online stores. I've worked with designers to turn their creative ideas into stunning digital realities. I also have strong knowledge in optimizing website performance for better speed and security, and I always ensure that the projects I work on meet the latest standards in terms of accessibility.
           </p>
-          <button className="btn-primary mt-10">Say Hello</button>
+          <a href="https://wa.me/62895327272758" className="btn-primary mt-10 w-fit">Say Hello</a>
         </div>
         <img
           src={hireMe}
