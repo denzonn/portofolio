@@ -88,7 +88,7 @@ const Project = () => {
                       target="_blank"
                       className="text-cyan-600 bg-gray-800 px-2 py-1 inline-block"
                     >
-                      Github
+                      GitHub
                     </a>
                     <a
                       href={project_info.live_link}

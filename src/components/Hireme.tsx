@@ -12,7 +12,7 @@ const Hireme = () => {
       <div className="bg-gray-700 relative px-8 rounded-2xl py-5 lg:max-w-4xl mx-auto min-h-[24rem] mt-24 flex gap-6 lg:flex-row flex-col-reverse items-center">
         <div>
           <h2 className="text-2xl font-semibold">
-          Do you need an experienced Frontend Developer 
+          Do you need an experienced Front-End Developer 
           
           <br />to take your project to the next level?
           </h2>

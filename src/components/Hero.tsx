@@ -22,7 +22,7 @@ const Hero = () => {
             <span> Denson Patibang</span>
           </h1>
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
-            Frontend Developer
+            Front-End Developer
           </h4>
           <button className="btn-primary mt-8">Contact Me</button>
           <div className="flex flex-row gap-4 justify-center lg:justify-start">

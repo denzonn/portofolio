@@ -1,4 +1,4 @@
-import aboutImg from '../assets/profile2.png'
+import aboutImg from "../assets/profile2.png";
 
 const About = () => {
   const info = [
@@ -6,7 +6,7 @@ const About = () => {
     { text: "Completed Projects", count: "13" },
     { text: "Companies Work", count: "01" },
   ];
-  
+
   return (
     <section id="about" className="py-10 text-white">
       <div className="text-center mt-8">
@@ -18,7 +18,14 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-full">
-              I have 1 year of experience working as a Frontend Engineer at a Software House company. I am responsible for analysis, creation and development of Frontend Applications, I work together in a team of 2 people. Using React, I designed and created an application interface for my team and integrated it using a RESTful API that returns a JSON payload. Sometimes I also work as a Fullstack developer in my company. Through unit testing, the team has achieved 90% completion of each project.
+                I have one year of experience working as a Front-end Engineer at
+                a Software House company. I am responsible for the analysis,
+                creation, and development of front-end applications. I work
+                together in a team of 2 people. Using React, I designed and
+                created an application interface for my team and integrated it
+                using a RESTful API that returns a JSON payload. Sometimes, I
+                also work as a Full-stack developer in my company. Through unit
+                testing, the team has achieved 90% completion of each project.
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (

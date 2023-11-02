@@ -19,7 +19,7 @@ const Skills = () => {
     },
     {
       logo: "logo-tailwind",
-      level: "Beginner",
+      level: "Intermediate",
       count: 40,
     },
     {
