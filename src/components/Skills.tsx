@@ -15,12 +15,12 @@ const Skills = () => {
     {
       logo: "logo-css3",
       level: "Intermediate",
-      count: 90,
+      count: 85,
     },
     {
       logo: "logo-tailwind",
       level: "Intermediate",
-      count: 40,
+      count: 78,
     },
     {
       logo: "typescript",
@@ -35,7 +35,7 @@ const Skills = () => {
     {
       logo: "logo-vue",
       level: "Beginner",
-      count: 80,
+      count: 60,
     },
     {
       logo: "logo-figma",
